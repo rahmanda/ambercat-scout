@@ -1,0 +1,25 @@
+{
+  "name": "ambercat-scout",
+  "description": "code example using laravel scout",
+  "main": "",
+  "authors": [
+    "Rahmanda Wibowo <rahmandawibowo@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "scout"
+  ],
+  "homepage": "https://github.com/rahmanda/ambercat-scout",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "resources/assets/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
